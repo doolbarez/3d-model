@@ -1,0 +1,11 @@
+Model Information:
+* title:	Asylum Bed
+* source:	https://sketchfab.com/3d-models/asylum-bed-2380f44510cc47cc9f5ed29f8cdfb132
+* author:	ThatJamGuy (https://sketchfab.com/EComputer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Asylum Bed" (https://sketchfab.com/3d-models/asylum-bed-2380f44510cc47cc9f5ed29f8cdfb132) by ThatJamGuy (https://sketchfab.com/EComputer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
